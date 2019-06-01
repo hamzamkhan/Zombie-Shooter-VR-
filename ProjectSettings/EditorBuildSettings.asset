@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start_Screen.unity
+    guid: 743a6a8b9de2765439b24b6eb0f98de6
+  - enabled: 1
+    path: Assets/Scenes/level1.unity
+    guid: a0dbef4f8f1aced43b544b44e3e053f3
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/VRTestMain.unity
+    guid: 44556678c272fe041933bc893ac6963b
+  - enabled: 1
+    path: Assets/Scenes/level1complete.unity
+    guid: 136fff7b52307b54f8f1d19486f5f997
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: 5cd2d3df362864e43aaa5df62e0667b5
+  - enabled: 1
+    path: Assets/Scenes/VRTestMain2.unity
+    guid: 959fa3f9412db6c459b00e0ccf721cc3
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 003af55468575724fb8f0db89cc2a684
+  m_configObjects: {}
